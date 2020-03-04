@@ -2,5 +2,9 @@ Hola GIT!
 
 Mi segundo update
 
+<<<<<<< Updated upstream
 
 otro cambio despues del git stash
+=======
+Otro cambio
+>>>>>>> Stashed changes
